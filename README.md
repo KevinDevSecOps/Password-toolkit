@@ -88,3 +88,9 @@ print(generar_contraseña(longitud=14, simbolos=True))
 ---
 
 Hecho con ❤️ por [KevinDevSecOps](https://github.com/KevinDevSecOps).  
+---  
+📌 **Creado por [KevinDevSecOps](https://github.com/KevinDevSecOps)**  
+- ✉️ Contacto: `kpcoolkids@hgmail.com`  
+- 🐦 Twitter: [@KevinDevSecOps](https://twitter.com/KevinDevSecOps)
+## 🎥 Demo  
+![Demo](https://media.giphy.com/media/ejemplo.gif)
