@@ -70,10 +70,21 @@ MIT License - Copyright (c) 2024 [KevinDevSecOps](https://github.com/KevinDevSec
 
 ---
 
-## 🤝 **Contribuciones**  
-¡Se aceptan PRs! Antes de contribuir:  
-1. Abre un **Issue** describiendo el cambio.  
-2. Haz un **Fork** y envía un Pull Request.  
+ ## 🚀 **Cómo Contribuir**  
+¡Me encanta la colaboración! Si quieres mejorar este proyecto:  
+1. Haz **Fork** del repositorio.  
+2. Crea una rama con tu feature: `git checkout -b feature/nueva-funcion`.  
+3. Envía un **Pull Request** y ¡listo!  
+
+🔹 **Requisitos**:  
+- Sigue el estilo de código PEP 8.  
+- Documenta tus cambios en el `CHANGELOG.md`.  
+
+---
+
+## 📜 **Licencia**  
+MIT License - Copyright © 2024 **KevinDevSecOps**.  
+> "La seguridad no es un lujo, es una necesidad".
 
 ---
 
